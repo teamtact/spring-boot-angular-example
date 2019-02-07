@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-boot-angular-example.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/spring-boot-angular-example)
+
 # Spring Boot API with Angular UI
  
 This example app shows how to create a Spring Boot API and display its data with an Angular UI.
